@@ -2,7 +2,7 @@
     <head>
         <title>Exemplo Accordion em Jquery</title>
 
-        <script src="https://code.jquery.com/jquery-3.6.0.js"></script> // importa biblioteca jquery estilos
+        <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
         
         <script>  $( function() {
                 $( "#accordion" ).accordion();
@@ -46,7 +46,4 @@
         </div>
     </body>
 
-</html> 
-
-
-/* acesso ao site: localhost/exemplo-accordion-jquery.php */
+</html>

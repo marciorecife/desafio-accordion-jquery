@@ -2,14 +2,14 @@
     <head>
         <title>Primeiro Site em PHP! Parabens!</title>
 
-        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script> // chama biblioteca jquery estilos
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 
         <style type="text/css">
-            .linha {                 // classe representada por (ponto)
-                font weight: bold;   // peso da fonte negrito 
-                color: green;        // cor da fonte verde
-                padding-left: 10px;  // espaço a esquerda
-                line-height: 50px;   // altura das linhas
+            .linha {                 /* classe representada por (ponto) */
+                font weight: bold;   /* peso da fonte negrito */ 
+                color: green;        /* cor da fonte verde */
+                padding-left: 10px;  /* espaço a esquerda */
+                line-height: 50px;   /* altura das linhas */
             }
         </style> 
     </head>
