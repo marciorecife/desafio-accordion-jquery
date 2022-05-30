@@ -3,6 +3,10 @@
         <title>Exemplo Accordion em Jquery</title>
 
         <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+        <link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
+
+        <script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
         
         <script>  $( function() {
                 $( "#accordion" ).accordion();
